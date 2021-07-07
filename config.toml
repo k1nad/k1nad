@@ -1,0 +1,60 @@
+baseurl         = "https://www.k1nad.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "K1NAD"
+  subtitle    = "Jason M. Sanromá"
+
+  cover       = "uploads/cobralite.jpeg"
+  description = "Jason's Ham Radio Site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "jasonsnrm"
+  fbName = "k1nad"
+  githubName = "sanroma"
+
+  logo = ""
+  orgName = ""
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "K1NAD"
+  authorAvatar = ""
+  authorLocation = "Billerica, MA"
+  authorWebsite = "https://sanroma.net"
+  authorDescription = "Ham Radio Operator"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Project"
+  url = "/tags/project"
+  weight = 100
+
+[[menu.main]]
+  name = "Ham Radio Stuff"
+  url = "/categories/ham-radio/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95

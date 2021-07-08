@@ -1,1 +1,15 @@
-
+public/
+.DS_Store
+npm_modules/
+node_modules/
+.npm/
+bower_components
+trash
+Error.log
+.sass-cache
+.tmp
+.rvmrc
+.trashes
+.data
+.config
+*~

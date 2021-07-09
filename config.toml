@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://www.k1nad.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""

@@ -45,7 +45,7 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Projects"
+  name = "Project"
   url = "/tags/project"
   weight = 100
 

@@ -45,16 +45,16 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Project"
+  name = "Projects"
   url = "/tags/project"
   weight = 100
 
 [[menu.main]]
-  name = "Ham Radio Stuff"
+  name = "Ham Radio Post's"
   url = "/categories/ham-radio/"
   weight = 99
-
-[[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
-  weight = 95
+  
+ [[menu.main]]
+   name = "About"
+   url = "about"
+   weight = 300

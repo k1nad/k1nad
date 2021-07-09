@@ -21,15 +21,15 @@ paginate        = 6
   githubName = "sanroma"
 
   logo = ""
-  orgName = ""
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgName = "K1NAD"
+  orgWebsite = ""
+  orgDescription = ""
 
   author = "K1NAD"
   authorAvatar = ""
   authorLocation = "Billerica, MA"
   authorWebsite = "https://sanroma.net"
-  authorDescription = "Ham Radio Operator"
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -50,11 +50,6 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "Ham Radio Post's"
+  name = "Ham Radio"
   url = "/categories/ham-radio/"
   weight = 99
-  
- [[menu.main]]
-   name = "About"
-   url = "about"
-   weight = 300

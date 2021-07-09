@@ -1,5 +1,6 @@
 baseurl         = "https://www.k1nad.com"
 theme           = "casper-two"
+title           = "K1NAD"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
